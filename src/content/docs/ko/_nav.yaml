@@ -149,7 +149,6 @@
             - /ko/pg/simple/toss-brandpay/module
             - /ko/pg/simple/toss-brandpay/warning
 
-
 - label: 결과 처리
   systemVersion: v1
   items:
@@ -356,6 +355,7 @@
     - /ko/tip/flow
     - /ko/tip/agency-and-tier
     - /ko/tip/redirect
+    - /ko/tip/tls-support
     - /ko/faq/undefined
 
 - label: V2 연동하기
